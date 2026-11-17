@@ -47,6 +47,8 @@ I'm now pivoting into **data analytics and data engineering**, combining that do
 ## 📊 Data Analytics & Engineering Highlights
 
 ### Power BI: Engineering Stores Inventory Dashboard
+🔗 **[View the project on GitHub →](https://github.com/danrei236/EngineeringStoresKPI_Dashboard)**
+
 - Built on **MS SQL Server** using **T-SQL**
 - Tracks **10 inventory KPIs** for an engineering stores environment
 - Turns day-to-day stores operations into visible, measurable performance
@@ -77,8 +79,24 @@ Reference material and frameworks I've worked through:
 
 ## 💼 Experience
 
-**Storeman → Stores Supervisor**, RCL Foods (Rainbow Chickens) · 11+ years
-Managed inventory across engineering, consumables, packaging, and ingredients in an FMCG environment.
+### RCL Foods (Rainbow Chickens): FMCG Supply Chain
+**Storeman → Stores Supervisor** · 11+ years
+
+Progressed through the stores function over more than a decade in a high-volume FMCG manufacturing environment, from hands-on storeman duties to supervising the stores operation.
+
+**Stock categories managed:**
+| Category | Scope |
+|---|---|
+| ⚙️ Engineering | Spares and maintenance stock supporting plant uptime |
+| 🧰 Consumables | High-turnover operational supplies |
+| 📦 Packaging | Packaging materials feeding production and dispatch |
+| 🥩 Ingredients | Raw materials for food production |
+
+**What this gave me:**
+- Deep familiarity with the full inventory lifecycle: receiving, storage, issuing, and stock accuracy
+- Experience working across four very different stock profiles, each with its own demand pattern, shelf life, and criticality
+- First-hand knowledge of where operational data comes from and where it breaks: stock discrepancies, lead times, and replenishment gaps
+- A practical foundation for supply chain analytics, which is why I'm now building SQL, Power BI, and Databricks skills on top of it
 
 ---
 
